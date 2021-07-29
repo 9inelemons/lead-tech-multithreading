@@ -1,4 +1,4 @@
-FROM php:7.3-zts-alpine
+FROM php:7.2-zts-alpine
 
 RUN apk add --no-cache \
         git \
