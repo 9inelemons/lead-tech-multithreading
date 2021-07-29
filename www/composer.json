@@ -1,0 +1,6 @@
+{
+  "require": {
+    "vladimir163/lead-generator": "dev-master",
+    "ext-pthreads": "*"
+  }
+}
